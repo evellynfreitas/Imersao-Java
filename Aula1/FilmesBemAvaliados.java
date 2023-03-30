@@ -7,7 +7,7 @@ import java.net.http.HttpResponse.BodyHandlers;
 import java.util.List;
 import java.util.Map;
 
-public class Main {
+public class FilmesBemAvaliados {
 
 	public static void main(String[] args) throws Exception, InterruptedException {
 		
